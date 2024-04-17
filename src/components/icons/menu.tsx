@@ -1,6 +1,6 @@
 import { LucideProps } from 'lucide-react'
 
-export function IconExemplo(props: LucideProps) {
+export function IconMenu(props: LucideProps) {
   return (
     <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 39 30' {...props}>
       <g clipPath='url(#clip0_2513_1474)'>
